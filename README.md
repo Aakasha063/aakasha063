@@ -17,6 +17,8 @@ A meticulous and passionate person, having the ability to bounce back in any cir
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakasha063&layout=compact)](https://github.com/<aakasha063>)
 
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats
+  
 ## How to Reach Me📬
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-aggarwal-1503731b3/)
