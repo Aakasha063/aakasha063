@@ -13,11 +13,29 @@ A meticulous and passionate person, having the ability to bounce back in any cir
 - 👨‍💻 All of my projects are available at [https://github.com/aakasha063](https://github.com/aakasha063)
 - 💬 Ask me about Development & Open Source
 
-<div align="center">
+<div align="center"> 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakasha063&layout=compact)](https://github.com/<aakasha063>)
 
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have uploaded the most code on Github.
+
+----------------------------------------------------------------------------------------------------------------------------------------------  
+## My Tech Stack Includes
+[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
+[![Django](https://img.icons8.com/color/48/000000/django.png)](https://www.djangoproject.com/)
+[![HTML](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)](https://aws.amazon.com/)
+[![MySQL](https://img.icons8.com/color/48/000000/mysql.png)](https://www.mysql.com/)
+[![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
+[![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
+[![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)](https://powerbi.microsoft.com/)
+[![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)](https://getbootstrap.com/)
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
   
 ## How to Reach Me📬
 
