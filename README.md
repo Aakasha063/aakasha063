@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&size=24&duration=3000&pause=1000&color=0C57D7&center=true&width=700&lines=Hi+there%F0%9F%91%8B%2C+I'm+Aakash+Aggarwal;I'm+a+Full+Stack+Developer;I'm+open+to+contribute+in+good+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&size=24&duration=3000&pause=1000&color=0C57D7&center=true&width=700&lines=Hi+there%F0%9F%91%8B%2C+I'm+Aakash+Aggarwal;I'm+a+Software+Developer;I'm+open+to+contribute+in+good+products)](https://git.io/typing-svg)
 
 A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product. I have an immense interest in automating things up and contributing to open source.
   
