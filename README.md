@@ -8,10 +8,10 @@ A meticulous and passionate person, having the ability to bounce back in any cir
   
 </div>
 
-- 🔭 Web Developer
-- 🌱 I’m currently working on Python/Django
+- 🔭 Software Engineer
+- 🌱 My expertise is on Python/Django
 - 👨‍💻 All of my projects are available at [https://github.com/aakasha063](https://github.com/aakasha063)
-- 💬 Ask me about Development & Open Source
+- 💬 Ask me about Software Development & Open Source
 
 <div align="center"> 
   
