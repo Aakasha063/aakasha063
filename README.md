@@ -58,14 +58,6 @@ I love building products that **combine AI, data, and solid backend engineering*
 
 ---
 
-### 🏆 Achievements
-
-- 🥇 **WebStar Award** – Recognized at WebShar (Q1 2024) for backend automation & reliability improvements.  
-- 💻 **Python Gold Badge (5★)** – HackerRank certified.  
-- 🚀 **Founder & Lead, Coding Club** – Organized 10+ coding contests & 5+ workshops to upskill fellow devs.
-
----
-
 ### 📫 Let’s Connect
 
 <div align="center">
@@ -73,7 +65,7 @@ I love building products that **combine AI, data, and solid backend engineering*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-aggarwal03/)
 [![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AakashAggr)
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aakasha063)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230C57D7.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/aakasha063)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230C57D7.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)]([https://github.com/aakasha063](https://aakash-aggarwal.vercel.app/))
 
 </div>
 
