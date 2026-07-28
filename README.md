@@ -13,9 +13,9 @@ I love building products that **combine AI, data, and solid backend engineering*
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working at **Armakuni** as a Software Engineer — building AI-powered backend systems with **FastAPI, Streamlit, and AWS**.  
-- 💼 Previously worked at **WebShar**, **Holy Basil Matra**, and **eClerx**, contributing to scalable microservices, CI/CD automation, and NLP integrations.  
-- ⚙️ Skilled in **Python, Django, FastAPI, AWS, Docker, Streamlit, and AI/NLP tools** like OpenAI & Gemini.  
+- 🔭 Currently working at **OralPro** as a Senior Software Engineer — building AI-powered backend systems with **FastAPI, Streamlit, and AWS**.  
+- 💼 Previously worked at **WebShar**, **Holy Basil Matra**, and **Armakuni**, contributing to scalable microservices, CI/CD automation, and NLP integrations.  
+- ⚙️ Skilled in **Python, Django, FastAPI, AWS, Docker, Streamlit, Agentic AI and AI/NLP tools** 
 - 💬 Ask me about **backend architecture, AI integrations, or cloud automation**.  
 - 👨‍🎓 MCA from **Chandigarh University** (8.55 CGPA).  
 - 🌱 Constantly learning about **AI product development & scalable backend design**.  
